@@ -1,0 +1,22 @@
+{
+  "name": "jsrefresh",
+  "version": "1.0.0",
+  "description": "Just refreshing some JavaScript knowledge",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gg-fsd/jsrefresh.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Gregg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gg-fsd/jsrefresh/issues"
+  },
+  "homepage": "https://github.com/gg-fsd/jsrefresh#readme"
+}
