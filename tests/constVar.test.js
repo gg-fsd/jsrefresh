@@ -1,4 +1,4 @@
-const constant = require('../constVar');
+const constant = require('../examples/constVar');
 
 test('should not return the input value', () => {
     //Wrapped test function call in an anonymous function according to Jest docs 
