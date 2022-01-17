@@ -3,6 +3,6 @@ function letBlockScope(x) {
     {
         let x = 99;
     }
-    return x;
+    return x;    
 }
 module.exports = letBlockScope;
